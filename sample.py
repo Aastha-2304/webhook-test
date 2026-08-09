@@ -15,12 +15,4 @@ def calculate_total(items):
 def sum_items(items):
     return sum(items)
 
-def farewell(name):
-    print(f"Goodbye, {name}!")
 
-def calculate_total(items):
-    total = sum_items(items)
-    return total
-
-def sum_items(items):
-    return sum(items)
