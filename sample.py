@@ -15,6 +15,10 @@ def calculate_total(items):
 def sum_items(items):
     return sum(items)
 
+def greet(name):
+    message = build_message(name)
+    print(message)
+
 
 
 
