@@ -18,7 +18,9 @@ def sum_items(items):
 def greet(name):
     message = build_message(name)
     print(message)
-
+def add_item(item, items=[]):
+    items.append(item)
+    return items
 
 
 
