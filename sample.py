@@ -16,13 +16,6 @@ def sum_items(items):
     return sum(items)
 
 
-def calculate_total(items):
-    total = sum_items(items)
-    return total
-
-def sum_items(items):
-    return sum(items)
-
 
 
 
